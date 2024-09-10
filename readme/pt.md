@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=Advanced+Ticket+Bot+%23By+Be%C5 %9F)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=Advanced+Ticket+Bot+%23By+Be%C5%9F)](#)
 
 *Os códigos de infraestrutura serão partilhados quando este repouso* **200 seguidores** *E* **50 estrelas.**
 
