@@ -18,6 +18,7 @@
 
 *Infrastructure Codes Will Be Shared When This Repo Has* **200 Followers** *And* **50 Stars.**
 
+
 - Embed Change / Adjustment.
 - Adjustable Both Button and Menu Support (Ability to Switch to Menu Buttons at Any Time)
 - SQL Database
